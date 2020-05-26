@@ -23,7 +23,7 @@ import os
 
 # inicialize a taxa de aprendizado inicial, número de épocas para treinamento e tamanho do lote
 inicia_apredizado = 1e-4
-quantidade_treinos = 1
+quantidade_treinos = 30
 tamanho_lote = 32 #batch_size
 # pegue a lista de imagens em nosso diretório de conjunto de dados e inicialize a lista de dados (ou seja, imagens) e imagens de classe
 print("[INFO] carregando imagens...")
