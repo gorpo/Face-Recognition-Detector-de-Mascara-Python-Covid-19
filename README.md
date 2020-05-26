@@ -39,6 +39,8 @@
 <code>pip install matplotlib</code><br>
 
 
+# Dataset de imagens:
+<p>Este script conta com um dataset pronto com 690 pessoas com mascaras e 686 imagens de pessoas sem mascaras, você pode melhorar este dataset ou criar seu proprio dataset. Dataset's sempre são criados com imagens "positivas" e "negativas", onde positivas são oque queremos detectar e negativas tudo q não queremos detectar, estes dataset's passam pelo trainer (trainer.py) o qual é responsável por gerar o "modelo" para nossa rede neural para o sistema de reconhecimento, portanto quanto mais imagens dentro do dataset e quantidade de treinos em cima delas melhor o desempenho do machine learnig e a execução mais precisa de nosso face recognition com atributo de máscaras.</p>
 
 # Executando o trainer:
 <p>Após ter todas as Lib's instaladas basta rodar o arquivo trainer.py, ele irá treinar as imagens da sua pasta dataset, aconselho que aumente a quantidade de imagens e a quantidade de treinos, para isto basta adicionar mais imagens nas pastas com e sem mascaras e no arquivo 'trainer.py' na linha 26 - quantidade_treinos-  definir no minimo para 30, aconselho 100x o processo.</p>
