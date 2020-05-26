@@ -6,7 +6,7 @@
 [![Build](https://img.shields.io/badge/Linux-Ubuntu%20Debian-orange.svg)]()
 [![Build](https://img.shields.io/badge/arquiterura-64bits-blue.svg)]()
   <h6 align="center"> <h2 align="center">Detector de Mascara | Covid-19 |Face Recognition | Deep Machine Learning</h2> </h6>
-<img src="https://github.com/gorpo/Face-Recognition-Detector-de-Mascara-Python-Covid-19/blob/master/exemplos/Screenshot_1.jpg?raw=true" width="100%"></img>
+<img src="https://github.com/gorpo/Face-Recognition-Detector-de-Mascara-Python-Covid-19/blob/master/exemplos/Screenshot_1.jpg" width="100%"></img>
 <h3>Sistema de detecção facial que reconhece o uso ou não de mascaras!</h3><br>
 <p>Este script foi desenvolvido para detecção ou não de mascaras através de reconhecimento facial, machine learning e deep learning. Esta inteligencia artificial conta com o poder de treino feito pelo usuario, ou seja, quanto mais dataset's(imagens) e fases de treino passadas pelo trainer melhor será o reconhecimento!</p>
 
@@ -21,25 +21,20 @@
 - h5py
 - Matplotlib
 
-
-
-
 # Instalações previas das libs que cumprem os requisitos para windows10:<br>
---> Tensorflow:<br>
+--> Tensorflow:
 <code> pip install --upgrade tensorflow</code><br>
--->Keras: <br>
+-->Keras: 
 <code>pip install keras</code><br>
---> Numpy<br>
+--> Numpy:
 <code>pip install numpy scipy</code><br>
---> Scikit-learn<br>
+--> Scikit-learn:
 <code>pip install scikit-learn</code><br>
---> Numpy<br>
-<code>pip install numpy</code><br>
---> Pillow<br>
+--> Pillow:
 <code>pip install pillow</code><br>
---> h5py<br>
+--> h5py:
 <code>pip install h5py</code><br>
---> Matploitlib<br>
+--> Matploitlib:
 <code>pip install matplotlib</code><br>
 
 
