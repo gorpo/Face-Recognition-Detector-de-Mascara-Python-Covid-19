@@ -55,7 +55,7 @@
  # Tempo de execução:
  <p>O tempo de execução de todo processo e qualidade varia de maquina para maquina, este script usa duas formas para fazer seu processo, ou uso da Memoria Ram ou uso da GPU. Para acelerar o processo aconselho uso de GPU porém ira se comportar tranquilamente com uso da memoria ram.
 
- <h2 align="center">OUTRAS FERRAMENTAS SERÃO LANÇADAS NA VERSAO 2.0</h2>
+ 
  <img src="https://github.com/gorpo/Face-Recognition-Detector-de-Mascara-Python-Covid-19/blob/master/exemplos/rodape.jpg" width="100%"></img>
 
 
